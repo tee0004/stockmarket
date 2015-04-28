@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_3129d98a",
+        "filename": "Market.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 1004739
+      },
+      "writtenOn": "2015-04-28T21:20:07Z",
+      "side": 1,
+      "message": "s is vague, we can use another name for it",
+      "revId": "d168c7ade16e721dddc277579101eb66971096b0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
