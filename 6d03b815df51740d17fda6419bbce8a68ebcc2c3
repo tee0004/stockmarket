@@ -1,0 +1,61 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_ee9120f2",
+        "filename": "Client.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1004792
+      },
+      "writtenOn": "2015-04-28T14:49:22Z",
+      "side": 1,
+      "message": "m is too vague",
+      "range": {
+        "startLine": 11,
+        "startChar": 2,
+        "endLine": 11,
+        "endChar": 11
+      },
+      "revId": "6d03b815df51740d17fda6419bbce8a68ebcc2c3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_ce8ee4cf",
+        "filename": "Client.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1004792
+      },
+      "writtenOn": "2015-04-28T14:49:22Z",
+      "side": 1,
+      "message": "unnecessary blank line",
+      "revId": "6d03b815df51740d17fda6419bbce8a68ebcc2c3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_2ebfb862",
+        "filename": "Client.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1004792
+      },
+      "writtenOn": "2015-04-28T14:49:22Z",
+      "side": 1,
+      "message": "unnecessary blank line",
+      "revId": "6d03b815df51740d17fda6419bbce8a68ebcc2c3",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
