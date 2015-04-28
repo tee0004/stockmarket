@@ -36,6 +36,23 @@
     },
     {
       "key": {
+        "uuid": "1a106d94_b122e94f",
+        "filename": "OrderBook.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 38,
+      "author": {
+        "id": 1004739
+      },
+      "writtenOn": "2015-04-28T21:19:03Z",
+      "side": 1,
+      "message": "The whole method is too long, we can separate into few part by function",
+      "revId": "168c91c8af34072a42a686af706878dd095f3423",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a106d94_3102790a",
         "filename": "OrderBook.java",
         "patchSetId": 1
@@ -53,6 +70,23 @@
         "endLine": 48,
         "endChar": 37
       },
+      "revId": "168c91c8af34072a42a686af706878dd095f3423",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_d115e5e5",
+        "filename": "OrderBook.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 1004739
+      },
+      "writtenOn": "2015-04-28T21:19:03Z",
+      "side": 1,
+      "message": "vague name o1 and o2",
       "revId": "168c91c8af34072a42a686af706878dd095f3423",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
