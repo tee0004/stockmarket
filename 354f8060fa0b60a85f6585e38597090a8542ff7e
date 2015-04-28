@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_d12fa586",
+        "filename": "MarketHistory.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1004792
+      },
+      "writtenOn": "2015-04-28T15:04:42Z",
+      "side": 1,
+      "message": "unnecessary blank line",
+      "revId": "354f8060fa0b60a85f6585e38597090a8542ff7e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_b13ca9c9",
+        "filename": "MarketHistory.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1004792
+      },
+      "writtenOn": "2015-04-28T15:04:42Z",
+      "side": 1,
+      "message": "vague variable m",
+      "revId": "354f8060fa0b60a85f6585e38597090a8542ff7e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_9139add9",
+        "filename": "MarketHistory.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1004792
+      },
+      "writtenOn": "2015-04-28T15:04:42Z",
+      "side": 1,
+      "message": "unnecessary blank line",
+      "revId": "354f8060fa0b60a85f6585e38597090a8542ff7e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
