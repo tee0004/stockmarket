@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_0e52bc3a",
+        "filename": "OrderUtility.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 2,
+      "author": {
+        "id": 1004792
+      },
+      "writtenOn": "2015-04-28T14:58:21Z",
+      "side": 1,
+      "message": "unnecessary blank line",
+      "revId": "cc66e6c9947e075c1a2b5c357d1ff2ca9a3bb0d0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_2e4df89a",
+        "filename": "OrderUtility.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1004792
+      },
+      "writtenOn": "2015-04-28T14:58:21Z",
+      "side": 1,
+      "message": "unnecessary blank line",
+      "revId": "cc66e6c9947e075c1a2b5c357d1ff2ca9a3bb0d0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_6e43706c",
+        "filename": "OrderUtility.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1004792
+      },
+      "writtenOn": "2015-04-28T14:58:21Z",
+      "side": 1,
+      "message": "useless comment",
+      "revId": "cc66e6c9947e075c1a2b5c357d1ff2ca9a3bb0d0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
