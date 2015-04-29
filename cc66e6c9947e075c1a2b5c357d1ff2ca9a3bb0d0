@@ -67,6 +67,29 @@
       "revId": "cc66e6c9947e075c1a2b5c357d1ff2ca9a3bb0d0",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_7a15e147",
+        "filename": "OrderUtility.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 26,
+      "author": {
+        "id": 1004832
+      },
+      "writtenOn": "2015-04-29T14:33:59Z",
+      "side": 1,
+      "message": "is prefix should be used for boolean variables and methods.",
+      "range": {
+        "startLine": 26,
+        "startChar": 23,
+        "endLine": 26,
+        "endChar": 27
+      },
+      "revId": "cc66e6c9947e075c1a2b5c357d1ff2ca9a3bb0d0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
