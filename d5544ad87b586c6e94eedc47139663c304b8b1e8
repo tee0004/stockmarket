@@ -53,6 +53,29 @@
     },
     {
       "key": {
+        "uuid": "1a106d94_1aa82d1f",
+        "filename": "Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 31,
+      "author": {
+        "id": 1004832
+      },
+      "writtenOn": "2015-04-29T14:28:04Z",
+      "side": 1,
+      "message": "This variable could be a little more descriptive.",
+      "range": {
+        "startLine": 31,
+        "startChar": 32,
+        "endLine": 31,
+        "endChar": 33
+      },
+      "revId": "d5544ad87b586c6e94eedc47139663c304b8b1e8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a106d94_3161d9a9",
         "filename": "Trader.java",
         "patchSetId": 1
@@ -87,6 +110,29 @@
     },
     {
       "key": {
+        "uuid": "1a106d94_faa4314c",
+        "filename": "Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 1004832
+      },
+      "writtenOn": "2015-04-29T14:28:04Z",
+      "side": 1,
+      "message": "Variable could be more descriptive.",
+      "range": {
+        "startLine": 60,
+        "startChar": 34,
+        "endLine": 60,
+        "endChar": 35
+      },
+      "revId": "d5544ad87b586c6e94eedc47139663c304b8b1e8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a106d94_515c55ed",
         "filename": "Trader.java",
         "patchSetId": 1
@@ -98,6 +144,29 @@
       "writtenOn": "2015-04-28T15:19:17Z",
       "side": 1,
       "message": "space not needed",
+      "revId": "d5544ad87b586c6e94eedc47139663c304b8b1e8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_5a65851c",
+        "filename": "Trader.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 112,
+      "author": {
+        "id": 1004832
+      },
+      "writtenOn": "2015-04-29T14:28:04Z",
+      "side": 1,
+      "message": "Variable could be more descriptive.",
+      "range": {
+        "startLine": 112,
+        "startChar": 40,
+        "endLine": 112,
+        "endChar": 41
+      },
       "revId": "d5544ad87b586c6e94eedc47139663c304b8b1e8",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
