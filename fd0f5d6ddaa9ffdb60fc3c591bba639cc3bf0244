@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_56f6f9f9",
+        "filename": "OrderBook.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1004808
+      },
+      "writtenOn": "2015-04-30T02:45:51Z",
+      "side": 1,
+      "message": "change short identifier \"m\" to a more detailed and meaningful variable",
+      "revId": "fd0f5d6ddaa9ffdb60fc3c591bba639cc3bf0244",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_3639bda4",
+        "filename": "OrderBook.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 199,
+      "author": {
+        "id": 1004808
+      },
+      "writtenOn": "2015-04-30T02:45:51Z",
+      "side": 1,
+      "message": "TODO comment is not needed",
+      "revId": "fd0f5d6ddaa9ffdb60fc3c591bba639cc3bf0244",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
