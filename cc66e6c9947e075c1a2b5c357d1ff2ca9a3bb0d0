@@ -70,6 +70,23 @@
     },
     {
       "key": {
+        "uuid": "1a106d94_5671d9a6",
+        "filename": "OrderUtility.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1004808
+      },
+      "writtenOn": "2015-04-30T02:35:30Z",
+      "side": 1,
+      "message": "Change unnecessary nested if statement \"if(cond1){if(cond2){..}}\" to an if statement with 2 conditions \"if((cond1) \u0026\u0026 (cond2)){..}\"",
+      "revId": "cc66e6c9947e075c1a2b5c357d1ff2ca9a3bb0d0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a106d94_7a15e147",
         "filename": "OrderUtility.java",
         "patchSetId": 1
